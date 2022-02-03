@@ -23,5 +23,10 @@ SGBD: software com função de gerenciar um ou mais bancos dados.
 
 SGL: é uma linguagem declarativa (alguns autores consideram ela como uma linguagem de programação)
 
+
+
+No AWS: Você não fica fazendo insert, você carrega os dados dentro de um CSV
+
+
 FONTE
 https://ebaconline.com.br/webinars/workshop-cientista-de-dados-2021-08-24
