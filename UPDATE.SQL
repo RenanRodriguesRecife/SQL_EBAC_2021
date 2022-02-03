@@ -1,1 +1,0 @@
-UPDATE paciente SET especialidade='psiquiatria' WHERE nome='Antonio';
