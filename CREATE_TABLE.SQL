@@ -13,5 +13,6 @@ CREATE TABLE paciente
 (
 	cnpj INT NOT NULL PRIMARY KEY,
     nome TEXT NOT NULL,
-    endereco TEXT
+    endereco TEXT,
+    cod_paciente INT
 );
