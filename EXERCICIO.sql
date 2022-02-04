@@ -1,0 +1,6 @@
+-- Problema
+-- - Você é engenheiro de dados e dono de uma libraria
+-- e quer criar um banco de dados.
+-- - O banco de dados precisa ter:
+--     - uma tabela para cliente
+--     - uma tabela para livro
